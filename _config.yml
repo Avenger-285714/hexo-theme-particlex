@@ -2,11 +2,11 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: /images/avatar.jpg
+avatar: /images/azami.jpg
 
 # Home page background image
 background:
-    - /images/background.jpg
+    - /images/backgrounds/background1.png
 
 # Loading image
 loading: /images/loading.gif
@@ -49,11 +49,11 @@ menu:
 card:
     enable: true
     description: |
-        Description
-        ...
-    iconLinks:
+        知不可乎骤得，托遗响于悲风。
+    iconLinks: https://lore.kernel.org/all/?q=wangyuli
     friendLinks:
-        Argvchs: https://argvchs.github.io
+        deepin Community: https://github.com/deepin-community
+        Wuhan deepin Technology Co.,Ltd. : https://github.com/linuxdeepin
 
 # Footer info
 footer:
